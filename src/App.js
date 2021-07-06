@@ -5,13 +5,6 @@ import { Text, View, StyleSheet} from 'react-native';
 import Chats from './Chats';
 import Status from './Status';
 import Calls from './Calls';
-import Screen1 from './screens/drawer/screen1';
-import Screen2 from './screens/drawer/screen2';
-import Screen3 from './screens/drawer/screen3';
-import Tab1 from './screens/tabs/tab1';
-import Tab2 from './screens/tabs/tab2';
-import Tab3 from './screens/tabs/tab3';
-
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
