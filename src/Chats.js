@@ -22,7 +22,7 @@ const Chat = () =>{
           />
         </View>
         <View style={styles.text_div}>
-          <Text style={styles.title}>Sasa s2</Text>
+          <Text style={styles.title}>Thaleco s2</Text>
           <Text style={styles.subTitle}>Mensagem de teste</Text>
         </View>
      
