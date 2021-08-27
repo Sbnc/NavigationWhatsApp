@@ -24,7 +24,7 @@ const Call = () =>{
         />
       </View>
       <View style={styles.text_div}>
-        <Text style={styles.title}>Thaleco s2</Text>
+        <Text style={styles.title}>Thaleco  kkkk s  ss2</Text>
         <Text style={styles.subTitle}>Ontem 16:10</Text>
       </View>
       <View style={styles.icone_div}>

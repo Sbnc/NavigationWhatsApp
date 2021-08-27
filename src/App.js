@@ -14,7 +14,7 @@ import { createMaterialTopTabNavigator } from '@react-navigation/material-top-ta
 const Tab = createMaterialTopTabNavigator();
 
 const App = () => {
-
+  
   return (
     <>
       <View style={styles.header}>
